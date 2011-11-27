@@ -24,6 +24,10 @@ var dataSets = {
   'colors with \\033\\[0;Xm': {
     input: '\033\[0;32mhello world\033\[39m',
     output: '<span style="color: green">hello world</span>'
+  },
+  bold: {
+    input: 'hello world'.bold,
+    output: '<b>hello world</b>'
   }
 };
 
