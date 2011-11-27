@@ -11,6 +11,9 @@
   "engines": {
     "node": ">= 0.4"
   },
+  "scripts": {
+    "test": "vows --spec"
+  },
   "dependencies": {},
   "devDependencies": {
     "colors": "0.5.x",
