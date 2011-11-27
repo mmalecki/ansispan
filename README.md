@@ -1,4 +1,4 @@
-# ansispan
+# ansispan [![Build Status](https://secure.travis-ci.org/mmalecki/ansispan.png)](http://travis-ci.org/mmalecki/ansispan)
 Copyright (C) 2011 by Maciej Małecki  
 MIT License (see LICENSE file)
 
