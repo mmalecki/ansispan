@@ -14,6 +14,9 @@
   "scripts": {
     "test": "vows --spec"
   },
+  "bin": {
+    "ansispan": "./bin/ansispan"
+  },
   "dependencies": {},
   "devDependencies": {
     "colors": "0.5.x",
