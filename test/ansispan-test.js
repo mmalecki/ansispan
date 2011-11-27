@@ -28,6 +28,10 @@ var dataSets = {
   bold: {
     input: 'hello world'.bold,
     output: '<b>hello world</b>'
+  },
+  italics: {
+    input: 'hello world'.italic,
+    output: '<i>hello world</i>'
   }
 };
 
