@@ -25,6 +25,10 @@ var dataSets = {
     input: '\033\[0;32mhello world\033\[39m',
     output: '<span style="color: green">hello world</span>'
   },
+  'colors with reset bit': {
+    input: '\033[35mhello world\033[0m',
+    output: '<span style="color: purple">hello world</span>'
+  },
   bold: {
     input: 'hello world'.bold,
     output: '<b>hello world</b>'
