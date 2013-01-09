@@ -2,7 +2,7 @@
   "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
   "name": "ansispan",
   "description": "Change your ANSI color codes into HTML `<span>`s",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "./lib/ansispan",
   "repository": {
     "type": "git",
