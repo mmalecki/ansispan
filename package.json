@@ -3,7 +3,7 @@
   "name": "ansispan",
   "description": "Change your ANSI color codes into HTML `<span>`s; pimped for also mark-up underlined text",
   "private": true,
-  "version": "0.0.5",
+  "version": "0.0.4",
   "main": "./lib/ansispan",
   "repository": {
     "type": "git",
