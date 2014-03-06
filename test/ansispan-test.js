@@ -36,6 +36,10 @@ var dataSets = {
   italics: {
     input: 'hello world'.italic,
     output: '<i>hello world</i>'
+  },
+  'background simple': {
+    input: '\033[44mhello world\033[0m',
+    output: '<span style="background-color: blue">hello world</span>'
   }
 };
 
